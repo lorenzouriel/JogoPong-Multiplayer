@@ -1,5 +1,4 @@
 ## JogoPong-Multiplayer
-#Jogo Pong criado em JS para jogar com amigos
 
 1 Jogo-Pong.zip - Contém o códigp, basta reproduzir em um projeto ou adicionar ao p5.js
 
